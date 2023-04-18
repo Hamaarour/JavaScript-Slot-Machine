@@ -80,6 +80,7 @@ const spin = () => {
 
 		}
 	}
+	return reels;
 };
 spin();
 
