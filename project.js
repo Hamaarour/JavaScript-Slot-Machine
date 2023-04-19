@@ -82,9 +82,5 @@ const spin = () => {
 	}
 	return reels;
 };
-spin();
 
-let balnce = deposit();
-const numberOfLines = getNumberOfLines();
-const bet = getBet(balnce, numberOfLines);
 
